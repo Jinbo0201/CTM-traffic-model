@@ -1,2 +1,3 @@
 # CTM-traffic-model
-## This problem realizes the CTM(Cell Transmission Model) model.
+
+This project realizes the CTM(Cell Transmission Model) model.

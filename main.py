@@ -1,4 +1,4 @@
-from CTM import CTM
+from CTM import *
 import random
 
 if __name__ == '__main__':
